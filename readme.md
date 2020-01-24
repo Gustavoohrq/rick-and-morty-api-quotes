@@ -28,8 +28,8 @@ Express
 Cors
 Body-parser
 
-Para rodar localmente:
-To run locally
+Para rodar localmente:</br>
+To run locally: 
 
 ```
 npm install
