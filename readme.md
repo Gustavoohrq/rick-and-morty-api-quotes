@@ -23,10 +23,10 @@ https://rick-and-morty-api-phrases.herokuapp.com/phrases/en-us/{{id}}
 
 ### Pré-Requisitos - Prerequisites
 
-Node
-Express
-Cors
-Body-parser
+* Node
+* Express
+* Cors
+* Body-parser
 
 Para rodar localmente:</br>
 To run locally: 
