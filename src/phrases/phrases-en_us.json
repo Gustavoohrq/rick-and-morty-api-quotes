@@ -4,109 +4,109 @@
             "id": 1,
             "phrase": "Listen, Morty, I hate to break it to you, but what people call love is just a chemical reaction that compels animals to breed. It hits hard, Morty, then it slowly fades, leaving you stranded in a failing marriage. I did it. Your parents are gonna do it. Break the cycle, Morty. Rise above. Focus on science.",
             "author": "Rick Sanchez.",
-            "img": "../img/rick-and-morty-together.png"
+            "img": "https://raw.githubusercontent.com/Gustavoohrq/rick-and-morty-api-phrases/master/src/img/rick-and-morty-together.png"
         },
         {
             "id": 2,
             "phrase": "What up, my glip-glops?",
             "author": "Rick Sanchez.",
-            "img": "../img/rick-alone.png"
+            "img": "https://raw.githubusercontent.com/Gustavoohrq/rick-and-morty-api-phrases/master/src/img/rick-alone.png"
         },
         {
             "id": 3,
             "phrase": "Nobody exists on purpose. Nobody belongs anywhere. We’re all going to die. Come watch TV.",
             "author": "Morty.",
-            "img": "https://i.ya-webdesign.com/images/morty-smith-png-11.png"
+            "img": "https://raw.githubusercontent.com/Gustavoohrq/rick-and-morty-api-phrases/master/src/img/morty-smith.png"
         },
         {
             "id": 4,
             "phrase": "Yeah, I’d like to order one large phone with extra phones, please.” “Cell phone. No-no-no-no, rotary! And pay phone on half.",
             "author": "Blue sofa.",
-            "img": "https://f0.pngfuel.com/png/818/531/blue-sofa-sitting-on-a-human-illustration-png-clip-art.png"
+            "img": "https://raw.githubusercontent.com/Gustavoohrq/rick-and-morty-api-phrases/master/src/img/blue-sofa.jpeg"
         },
         {
             "id": 5,
             "phrase": "Yea… If you spend all day shuffling words around you can make anything sound bad… Morty…",
             "author": "Rick Sanchez.",
-            "img": "https://www.freepngimg.com/thumb/rick_and_morty/27448-8-rick-and-morty-transparent.png"
+            "img": "https://raw.githubusercontent.com/Gustavoohrq/rick-and-morty-api-phrases/master/src/img/rick-and-morty-together.png"
         },
         {
             "id": 6,
             "phrase": "Then it's time to get your beak wet tonight playa!",
             "author": "Rick Sanchez.",
-            "img": "https://www.freepngimg.com/thumb/rick_and_morty/27448-8-rick-and-morty-transparent.png"
+            "img": "https://raw.githubusercontent.com/Gustavoohrq/rick-and-morty-api-phrases/master/src/img/rick-and-morty-together.png"
         },
         {
             "id": 7,
             "phrase": "ISN'T IT OBVIOUS MORTY? I FROZE HIM",
             "author": "Rick Sanchez.",
-            "img": "http://www.pngall.com/wp-content/uploads/4/Rick-And-Morty.png"
+            "img": "https://raw.githubusercontent.com/Gustavoohrq/rick-and-morty-api-phrases/master/src/img/rick-alone.png"
         },
         {
             "id": 8,
             "phrase": "GRAAAAAASSSSSSS… tastes bad",
             "author": "Rick Sanchez.",
-            "img": "http://www.pngall.com/wp-content/uploads/4/Rick-And-Morty.png"
+            "img": "https://raw.githubusercontent.com/Gustavoohrq/rick-and-morty-api-phrases/master/src/img/rick-alone.png"
         },
         {
             "id": 9,
             "phrase": "He's not a hot girl. He can't just bail on his life and set up shop in someone else's.",
             "author": "Beth.",
-            "img": "https://i.ya-webdesign.com/images/rick-and-morty-beth-png-2.png"
+            "img": "https://raw.githubusercontent.com/Gustavoohrq/rick-and-morty-api-phrases/master/src/img/beth.png"
         },
         {
             "id": 10,
             "phrase": "Five more minutes of this and I'm going to get mad!",
             "author": "Goldenfold.",
-            "img": "https://vignette.wikia.nocookie.net/rickandmorty/images/7/72/MrGoldenfold.png/revision/latest/scale-to-width-down/340?cb=20131230015346"
+            "img": "https://raw.githubusercontent.com/Gustavoohrq/rick-and-morty-api-phrases/master/src/img/goldenfold.png"
         },
         {
             "id": 11,
             "phrase": "Nothing to read into there!",
             "author": "Goldenfold.",
-            "img": "https://vignette.wikia.nocookie.net/rickandmorty/images/7/72/MrGoldenfold.png/revision/latest/scale-to-width-down/340?cb=20131230015346"
+            "img": "https://raw.githubusercontent.com/Gustavoohrq/rick-and-morty-api-phrases/master/src/img/goldenfold.png"
         },
         {
             "id": 12,
             "phrase": "…not MY fault this is happening",
             "author": "Goldenfold.",
-            "img": "https://vignette.wikia.nocookie.net/rickandmorty/images/7/72/MrGoldenfold.png/revision/latest/scale-to-width-down/340?cb=20131230015346"
+            "img": "https://raw.githubusercontent.com/Gustavoohrq/rick-and-morty-api-phrases/master/src/img/goldenfold.png"
         },
         {
             "id": 13,
             "phrase": "Hmmm… human music",
             "author": "Jerry.",
-            "img": "https://i.ya-webdesign.com/images/jerry-rick-and-morty-png-1.png"
+            "img": "https://raw.githubusercontent.com/Gustavoohrq/rick-and-morty-api-phrases/master/src/img/jerry.png"
         },
         {
             "id": 14,
             "phrase": "I don't get it and I don't need to. ",
             "author": "Jerry.",
-            "img": "https://i.ya-webdesign.com/images/jerry-rick-and-morty-png-1.png"
+            "img": "https://raw.githubusercontent.com/Gustavoohrq/rick-and-morty-api-phrases/master/src/img/jerry.png"
         },
         {
             "id": 15,
             "phrase": "So women like confidence… How convenient…",
             "author": "Jerry.",
-            "img": "https://i.ya-webdesign.com/images/jerry-rick-and-morty-png-1.png"
+            "img": "https://raw.githubusercontent.com/Gustavoohrq/rick-and-morty-api-phrases/master/src/img/jerry.png"
         },
         {
             "id": 16,
             "phrase": "I'm Mr. Crowbar, and here is my friend, who is also a crowbar!",
             "author": "Jerry.",
-            "img": "https://i.ya-webdesign.com/images/jerry-rick-and-morty-png-1.png"
+            "img": "https://raw.githubusercontent.com/Gustavoohrq/rick-and-morty-api-phrases/master/src/img/jerry.png"
         },
         {
             "id": 17,
             "phrase": "It's a device Morty, that when you put it in your ear, you can enter people's dreams, Morty. Its just like that movie that you keep crowing about.",
             "author": "Rick Sanchez.",
-            "img": "https://www.freepngimg.com/thumb/rick_and_morty/27448-8-rick-and-morty-transparent.png"
+            "img": "https://raw.githubusercontent.com/Gustavoohrq/rick-and-morty-api-phrases/master/src/img/rick-and-morty-together.png"
         },
         {
             "id": 18,
             "phrase": "It's a figure of speech, Morty! They're bureaucrats! I don't respect them. Just keep shooting, Morty! You have no idea what prison is like here!",
             "author": "Rick Sanchez.",
-            "img": "https://www.freepngimg.com/thumb/rick_and_morty/27448-8-rick-and-morty-transparent.png"
+            "img": "https://raw.githubusercontent.com/Gustavoohrq/rick-and-morty-api-phrases/master/src/img/rick-and-morty-together.png"
         },
         {
             "id": 19,
@@ -118,7 +118,7 @@
             "id": 20,
             "phrase": "Ohh yea, you gotta get schwifty ",
             "author": "Rick Sanchez.",
-            "img": "http://www.pngall.com/wp-content/uploads/4/Rick-And-Morty.png"
+            "img": "https://raw.githubusercontent.com/Gustavoohrq/rick-and-morty-api-phrases/master/src/img/rick-alone.png"
         }
 
     ]
