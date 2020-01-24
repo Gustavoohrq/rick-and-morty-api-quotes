@@ -6,7 +6,7 @@ Get Rick and Morty's quotes from API.
 
 ## Como Acessar - Getting Started
 
-Para acessar uma frase, use a url:
+Para acessar uma frase, use a url:</br>
 Access the API using the url:
 
 ```
@@ -14,7 +14,7 @@ https://rick-and-morty-api-phrases.herokuapp.com/
 ```
 ### Estrutura de URL - URL Structure
 
-Você pode acessar as frases por id:
+Você pode acessar as frases por id:</br>
 You can access each quotes by id:
 ```
 https://rick-and-morty-api-phrases.herokuapp.com/phrases/pt-br/{{id}}
@@ -37,12 +37,12 @@ npm start
 ```
 
 
-Sinta-se convidado para participar do desenvolvimento.
+Sinta-se convidado para participar do desenvolvimento.</br>
 Feel free to contribute.
 
 ## Autor - Authors
 
-* **GUSTAVO HENRIQUE** - [Gustavoohrq](https://github.com/Gustavoohrq)
+* **Gustavo Henrique** - [Gustavoohrq](https://github.com/Gustavoohrq)
 
 
 ## Licensa - License
