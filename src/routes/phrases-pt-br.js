@@ -6,7 +6,8 @@ router.get('/', (req, res) =>{
     res.json(api)
 })
 router.get('/:id', (req, res) =>{
-    res.json(api.phrases_pt_br[req.params.id])
+    var id = parseInt(req.params.id) - 1
+    res.json(api.phrases_pt_br[id])
 })
 
 module.exports = router;

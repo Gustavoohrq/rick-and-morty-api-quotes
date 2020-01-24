@@ -4,19 +4,19 @@
             "id": 1,
             "phrase": "Listen, Morty, I hate to break it to you, but what people call love is just a chemical reaction that compels animals to breed. It hits hard, Morty, then it slowly fades, leaving you stranded in a failing marriage. I did it. Your parents are gonna do it. Break the cycle, Morty. Rise above. Focus on science.",
             "author": "Rick Sanchez.",
-            "img": "https://www.freepngimg.com/thumb/rick_and_morty/27448-8-rick-and-morty-transparent.png"
+            "img": "../img/rick-and-morty-together.png"
         },
         {
             "id": 2,
             "phrase": "What up, my glip-glops?",
             "author": "Rick Sanchez.",
-            "img": "http://www.pngall.com/wp-content/uploads/4/Rick-And-Morty.png"
+            "img": "../img/rick-alone.png"
         },
         {
             "id": 3,
             "phrase": "Nobody exists on purpose. Nobody belongs anywhere. We’re all going to die. Come watch TV.",
-            "author": "Rick Sanchez.",
-            "img": "https://www.stickpng.com/assets/images/58f37726a4fa116215a92410.png"
+            "author": "Morty.",
+            "img": "https://i.ya-webdesign.com/images/morty-smith-png-11.png"
         },
         {
             "id": 4,
