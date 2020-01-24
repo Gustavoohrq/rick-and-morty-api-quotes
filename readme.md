@@ -47,5 +47,5 @@ Feel free to contribute.
 
 ## Licensa - License
 
-This project is licensed under the NOME_LICENSA - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU GPL V3 - see the [LICENSE.md](LICENSE.md) file for details
 
