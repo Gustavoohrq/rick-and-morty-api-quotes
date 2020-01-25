@@ -14,7 +14,7 @@ module.exports = {
     // Languages
     if (choice) return res.json(choice);
 
-    return res.json({
+    return res.status(404).json({
       message: "The language does not exist"
     });
   },
@@ -29,7 +29,7 @@ module.exports = {
     if (choice)
       return res.json(choice.find(item => item.id === Number(idOr)));
 
-    return res.json({
+    return res.status(404).json({
       message: "The language does not exist"
     });
   }
