@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 const routes = require('./routes');
 
-const port = process.env.SERVER_PORT || 8080
+const port = process.env.PORT || 8080
 const app = express()
 
 app.use(bodyParser.json());
@@ -19,7 +19,7 @@ app.get('/', (req, res) => {
 app.use(routes);
 
 app.listen(port, function () {
-    console.log(`Server running on the port 8080`);
+    console.log(`Server running on the port ${port}`);
 });
 
 module.exports = app;
