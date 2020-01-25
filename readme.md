@@ -1,51 +1,83 @@
-# Frases Rick e Morty - Rick and Morty's Quotes
+# Frases Rick e Morty / Rick and Morty's Quotes
 
-Receba frases da série animada Rick e Morty por uma API.
+Receba frases da série animada Rick e Morty por uma API. / Get Rick and Morty's quotes from API.
 
-Get Rick and Morty's quotes from API.
+## Getting Started
 
-## Como Acessar - Getting Started
-
-Para acessar uma frase, use a url:</br>
-Access the API using the url:
+Para acessar uma frase, use a url / Access the API using the url:</br>
 
 ```
 https://rick-and-morty-api-phrases.herokuapp.com/
 ```
-### Estrutura de URL - URL Structure
 
-Você pode acessar as frases por id:</br>
-You can access each quotes by id:
+### Structure
+
+- `GET /phrases/{language}`: Obter todas as frases / Get all phrases;
+```json
+[
+  {
+    "id": 1,
+    "phrase": "xpto",
+    "author": "xpto",
+    "img": "http://"
+  },
+]
 ```
-https://rick-and-morty-api-phrases.herokuapp.com/phrases/pt-br/{{id}}
-https://rick-and-morty-api-phrases.herokuapp.com/phrases/en-us/{{id}}
+
+- `GET /phrases/{language}/{id}`: Obter frases por id / Get phrases by id;
+```json
+[
+  {
+    "id": 1,
+    "phrase": "xpto",
+    "author": "xpto",
+    "img": "http://"
+  },
+]
 ```
 
-### Pré-Requisitos - Prerequisites
+- `GET /phrases/{language}/random`: Obter frases aleatórias / Get random phrases;
+```json
+[
+  {
+    "id": 1,
+    "phrase": "xpto",
+    "author": "xpto",
+    "img": "http://"
+  },
+]
+```
 
-* Node
-* Express
-* Cors
-* Body-parser
+### Dependences
+-   [Node.js](https://nodejs.org/en/)
+-   [Nodemon](https://nodemon.io/)
+-   [Express](https://expressjs.com/)
+-   [Body-parser](https://www.npmjs.com/package/body-parser)
+-   [Cors](https://www.npmjs.com/package/cors)
+-   [Dotenv](https://www.npmjs.com/package/dotenv)
 
-Para rodar localmente:</br>
-To run locally: 
+### Rest
+-   [Insominia Rest](https://insomnia.rest/download/)
+Na pasta **rest/** é possível encontrar o arquivo de configuração do Insominia Rest, mas sinta-se a vontade para utilizar o que quiser. / In the folder ** rest / ** you can find the Insominia Rest configuration file, but feel free to use whatever you want.
+
+[![](screens/rest_insomnia.png)](screens/rest_insomnia.png)
+
+
+Para rodar localmente / To run locally:</br>
 
 ```
 npm install
 npm start
 ```
 
-
 Sinta-se convidado para participar do desenvolvimento.</br>
 Feel free to contribute.
 
-## Autor - Authors
+## Authors
 
 * **Gustavo Henrique** - [Gustavoohrq](https://github.com/Gustavoohrq)
 
-
-## Licensa - License
+## License
 
 This project is licensed under the GNU GPL V3 - see the [LICENSE.md](LICENSE.md) file for details
 
