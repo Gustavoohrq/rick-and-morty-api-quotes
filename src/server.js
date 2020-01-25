@@ -19,7 +19,7 @@ app.get('/', (req, res) => {
 app.use(routes);
 
 app.listen(port, function () {
-    console.log(`Server running on the port ${port}`);
+    console.log(`Server running on the port 8080`);
 });
 
 module.exports = app;
