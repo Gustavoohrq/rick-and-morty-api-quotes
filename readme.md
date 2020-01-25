@@ -10,7 +10,7 @@ Para acessar uma frase, use a url / Access the API using the url:</br>
 https://rick-and-morty-api-phrases.herokuapp.com/
 ```
 
-### Structure
+## Rest API Success Responses
 
 - `GET /phrases/{language}`: Obter todas as frases / Get all phrases;
 ```json
@@ -46,6 +46,15 @@ https://rick-and-morty-api-phrases.herokuapp.com/
     "img": "http://"
   },
 ]
+```
+
+## Rest API Error Responses
+
+- `GET /phrases/{param}/{param}`: 404
+```json
+  {
+    "message": "The language does not exist"
+  },
 ```
 
 ### Dependences
