@@ -58,7 +58,7 @@ https://rick-and-morty-api-phrases.herokuapp.com/
 
 ### Rest
 -   [Insominia Rest](https://insomnia.rest/download/)
-Na pasta **rest/** é possível encontrar o arquivo de configuração do Insominia Rest, mas sinta-se a vontade para utilizar o que quiser. / In the folder ** rest / ** you can find the Insominia Rest configuration file, but feel free to use whatever you want.
+Na pasta **rest** é possível encontrar o arquivo de configuração do Insominia Rest, mas sinta-se a vontade para utilizar o que quiser. <br> In the folder **rest** you can find the Insominia Rest configuration file, but feel free to use whatever you want.
 
 [![](screens/rest_insomnia.png)](screens/rest_insomnia.png)
 
