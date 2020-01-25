@@ -22,10 +22,12 @@ module.exports = {
   async show(req, res) {
     const { id, language } = req.params;
     const choice = store[language] || false;
+    const random = Math.floor(Math.random() * choice.length) + 1;
+    const idOr = id === 'random' ? random : id;
 
     // Languages
     if (choice)
-      return res.json(choice.find(item => item.id === Number(id)));
+      return res.json(choice.find(item => item.id === Number(idOr)));
 
     return res.json({
       message: "The language does not exist"
