@@ -1,6 +1,6 @@
 const express = require('express')
 const router = express()
-const api = require('../phrases/phrases-pt_br.json')
+const api = require('../services/phrases-pt_br.json')
 
 router.get('/', (req, res) =>{
     res.json(api)
