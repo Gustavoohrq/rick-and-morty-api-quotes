@@ -13,7 +13,7 @@ app.use(bodyParser.json());
 app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 
-app.get('/', (_, res) => {
+app.get('/', (req, res) => {
     res.json({ 'message': 'Welcome api phrases Rick and Morty' })
 })
 
