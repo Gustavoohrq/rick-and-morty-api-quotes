@@ -82,7 +82,7 @@ npm start
 Sinta-se convidado para participar do desenvolvimento.</br>
 Feel free to contribute.
 
-## Authors
+## 🙋‍♂️ Author
 
 * **Gustavo Henrique** - [Gustavoohrq](https://github.com/Gustavoohrq)
 
